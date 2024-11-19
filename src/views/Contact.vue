@@ -7,10 +7,11 @@
         <h2>Me contacter</h2>
         <p>Email: adam050986@yahoo.fr</p>
         <a href="https://linkedin.com" target="_blank" class="btn btn-primary">
-          Mon profil LinkedIn
+          <i class="fa-brands fa-linkedin"></i> LinkedIn
         </a>
       </div>
       
+      <!--
       <div class="col-md-6">
         <h2>Formulaire de contact</h2>
         <form @submit.prevent="submitForm">
@@ -32,6 +33,9 @@
           <button type="submit" class="btn btn-primary">Envoyer</button>
         </form>
       </div>
+
+      -->
+      
     </div>
   </div>
 </template>

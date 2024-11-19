@@ -4,6 +4,8 @@ import App from './App.vue'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import 'bootstrap'
 
+
+
 import Home from './views/Home.vue'
 import Portfolio from './views/Portfolio.vue'
 import Profile from './views/Profile.vue'
