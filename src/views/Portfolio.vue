@@ -5,7 +5,7 @@
     <h2 class="mb-4">Sites Web</h2>
     <div class="row">
 
-      <!-- 1 card -->
+      <!-- Allonavette -->
       <div class="col-md-6 mb-4">
         <div class="card">
           <img src="/allonavette.jpg" class="card-img-top" alt="Site Web">
@@ -17,7 +17,7 @@
         </div>
       </div>
 
-      <!-- 1 card -->
+      <!-- Conceptys -->
       <div class="col-md-6 mb-4">
         <div class="card">
           <img src="/conceptys.jpg" class="card-img-top" alt="Site Web">
@@ -56,10 +56,10 @@
 
     </div>
 
-    <h2 class="mb-4 mt-5">Github</h2>
+    <h2 class="mb-4 mt-5">Plateformes de Développement</h2>
 
-    <!-- Github -->
     <div class="row">
+      <!-- Github -->
       <div class="col-md-6 mb-4">
         <div class="card">
           <img src="/github.png" class="card-img-top" alt="Map 3D">
@@ -70,13 +70,9 @@
           </div>
         </div>
       </div>
-    </div>
 
 
-    <h2 class="mb-4 mt-5">Codepen</h2>
-
-    <!-- Codepen -->
-    <div class="row">
+      <!-- Codepen -->
       <div class="col-md-6 mb-4">
         <div class="card">
           <img src="/codepen.png" class="card-img-top" alt="Map 3D">
@@ -89,13 +85,10 @@
       </div>
     </div>
 
-
-
     <h2 class="mb-4 mt-5">Conception de Maps en 3D (GoldSource, Source Engine, Unity)</h2>
 
-    
-    <!-- Skyfall -->
     <div class="row">
+      <!-- Skyfall -->
       <div class="col-md-6 mb-4">
         <div class="card">
           <img src="/skyfall.jpg" class="card-img-top" alt="Map 3D">
@@ -105,10 +98,9 @@
           </div>
         </div>
       </div>
-    </div>
 
-    <!-- Chicago -->
-    <div class="row">
+
+      <!-- Chicago -->
       <div class="col-md-6 mb-4">
         <div class="card">
           <img src="/chicago.jpg" class="card-img-top" alt="Map 3D">
@@ -117,11 +109,11 @@
             <p class="card-text">Carte multijoueur pour le mod Goldeneye Source</p>
           </div>
         </div>
-      </div>
-    </div>
 
-    <!-- Mangashop -->
-    <div class="row">
+      </div>
+
+      <!-- Mangashop -->
+
       <div class="col-md-6 mb-4">
         <div class="card">
           <img src="/mangashop.jpg" class="card-img-top" alt="Map 3D">
@@ -130,11 +122,10 @@
             <p class="card-text">Carte multijoueur avec multiples systèmes d'entitées</p>
           </div>
         </div>
-      </div>
-    </div>
 
-    <!-- 1 card -->
-    <div class="row">
+      </div>
+
+      <!-- Usinetech -->
       <div class="col-md-6 mb-4">
         <div class="card">
           <img src="/placeholder-map.jpg" class="card-img-top" alt="Map 3D">
@@ -143,22 +134,32 @@
             <p class="card-text">Gagnante du concours organisé par le "Site Du Zéro" (OpenClassroom)</p>
           </div>
         </div>
-      </div>
-    </div>
 
-    <!-- 1 card -->
-    <div class="row">
+      </div>
+
+      <!-- Akihabra -->
       <div class="col-md-6 mb-4">
         <div class="card">
           <img src="/placeholder-map.jpg" class="card-img-top" alt="Map 3D">
           <div class="card-body">
-            <h5 class="card-title">Usine Tech (Half Life 1 - Gold Source Engine)</h5>
-            <p class="card-text">Gagnante du concours organisé par le "Site Du Zéro" (OpenClassroom)</p>
+            <h5 class="card-title">Course Ballistic NG (Unity)</h5>
+            <p class="card-text">Course tracée dans le jeu puis </p>
           </div>
         </div>
       </div>
-    </div>
 
+      <!-- Hera -->
+      <div class="col-md-6 mb-4">
+        <div class="card">
+          <img src="/placeholder-map.jpg" class="card-img-top" alt="Map 3D">
+          <div class="card-body">
+            <h5 class="card-title">Niveau dans l'espace</h5>
+            <p class="card-text">Moteur propriétaire "Spark" dévellopé par Unknown World (Subnautica)</p>
+          </div>
+        </div>
+      </div>
+
+    </div>
 
   </div>
 </template>
