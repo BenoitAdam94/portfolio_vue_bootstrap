@@ -5,7 +5,9 @@
     <div class="row">
       <div class="col-md-6">
         <h2>Me contacter</h2>
-        <p>Email: adam050986@yahoo.fr</p>
+        <p><span id="Email"></span></p>
+
+
         <a href="https://linkedin.com" target="_blank" class="btn btn-primary">
           <i class="fa-brands fa-linkedin"></i> LinkedIn
         </a>

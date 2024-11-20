@@ -128,7 +128,7 @@
       <!-- Usinetech -->
       <div class="col-md-6 mb-4">
         <div class="card">
-          <img src="/placeholder-map.jpg" class="card-img-top" alt="Map 3D">
+          <img src="/usinetech.jpg" class="card-img-top" alt="Map 3D">
           <div class="card-body">
             <h5 class="card-title">Usine Tech (Half Life 1 - Gold Source Engine)</h5>
             <p class="card-text">Gagnante du concours organisé par le "Site Du Zéro" (OpenClassroom)</p>
@@ -140,10 +140,10 @@
       <!-- Akihabra -->
       <div class="col-md-6 mb-4">
         <div class="card">
-          <img src="/placeholder-map.jpg" class="card-img-top" alt="Map 3D">
+          <img src="/wipeout.jpg" class="card-img-top" alt="Map 3D">
           <div class="card-body">
             <h5 class="card-title">Course Ballistic NG (Unity)</h5>
-            <p class="card-text">Course tracée dans le jeu puis </p>
+            <p class="card-text">Course tracée dans le jeu puis ajout d'assets sur Unity</p>
           </div>
         </div>
       </div>
@@ -151,7 +151,7 @@
       <!-- Hera -->
       <div class="col-md-6 mb-4">
         <div class="card">
-          <img src="/placeholder-map.jpg" class="card-img-top" alt="Map 3D">
+          <img src="/nancy_veil.jpg" class="card-img-top" alt="Map 3D">
           <div class="card-body">
             <h5 class="card-title">Niveau dans l'espace</h5>
             <p class="card-text">Moteur propriétaire "Spark" dévellopé par Unknown World (Subnautica)</p>
