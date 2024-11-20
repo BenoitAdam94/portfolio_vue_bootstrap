@@ -5,7 +5,9 @@
     <div class="row">
       <div class="col-md-6">
         <h2>Me contacter</h2>
-        <p><span id="Email"></span></p>
+        <p><EmailGenerator />     
+
+        </p>
 
 
         <a href="https://linkedin.com" target="_blank" class="btn btn-primary">
@@ -42,17 +44,14 @@
   </div>
 </template>
 
-<script setup lang="ts">
-import { reactive } from 'vue'
 
-const form = reactive({
-  name: '',
-  email: '',
-  message: ''
-})
+<script>
+import EmailGenerator from '../components/EmailGenerator.vue';
 
-const submitForm = () => {
-  // Ici vous pourrez ajouter la logique d'envoi du formulaire
-  console.log('Form submitted:', form)
+export default {
+  name: 'App',
+  components: {
+    EmailGenerator
+  }
 }
 </script>

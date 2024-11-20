@@ -1,0 +1,15 @@
+
+<script setup lang="ts">
+import { reactive } from 'vue'
+
+const form = reactive({
+  name: '',
+  email: '',
+  message: ''
+})
+
+const submitForm = () => {
+  // Ici vous pourrez ajouter la logique d'envoi du formulaire
+  console.log('Form submitted:', form)
+}
+</script>
