@@ -158,7 +158,7 @@
           <img src="/nancy_veil.jpg" class="card-img-top" alt="Map 3D">
           <div class="card-body">
             <h5 class="card-title">Niveau dans l'espace</h5>
-            <p class="card-text">Moteur propriétaire "Spark" dévellopé par Unknown World (Subnautica)</p>
+            <p class="card-text">Moteur propriétaire "Spark" dévelopé par Unknown World (Subnautica)</p>
           </div>
         </div>
       </div>
