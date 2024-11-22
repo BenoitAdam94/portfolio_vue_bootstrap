@@ -11,6 +11,9 @@
             <router-link class="nav-link" to="/">Accueil</router-link>
           </li>
           <li class="nav-item">
+            <router-link class="nav-link" to="/services">Services</router-link>
+          </li>
+          <li class="nav-item">
             <router-link class="nav-link" to="/portfolio">Portfolio</router-link>
           </li>
           <li class="nav-item">
