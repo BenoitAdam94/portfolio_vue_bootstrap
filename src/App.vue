@@ -31,6 +31,7 @@
   <footer class="bg-dark text-light py-4 mt-5">
     <div class="container text-center">
       <p>&copy; 2024 Mon Portfolio. Tous droits réservés.</p>
+      <p><router-link class="nav-link" to="/mentions">Mentions Légales</router-link></p>
     </div>
   </footer>
 </template>
