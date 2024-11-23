@@ -27,7 +27,7 @@
                 <ul>
                     <li><strong>HTML/CSS/Javascript</strong> : Apprendre les bases du développement web front-end avec des cours interactifs et des projets pratiques.</li>
                     <li><strong>PHP/SQL</strong> : Maîtriser le développement back-end avec PHP et la gestion des bases de données avec SQL.</li>
-                    <li><strong>Python</strong> : Découvrer les fondamentaux de la programmation avec Python, idéal pour le développement web, l'analyse de données et l'intelligence artificielle.</li>
+                    <li><strong>Python</strong> : Découvrir les fondamentaux de la programmation avec Python, idéal pour le développement web, l'analyse de données et l'intelligence artificielle.</li>
                     <li><strong>Wordpress</strong> : Apprendre à créer, personnaliser et gérer des sites web avec Wordpress, le CMS le plus populaire au monde.</li>
                 </ul>
 
