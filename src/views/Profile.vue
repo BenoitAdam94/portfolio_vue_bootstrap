@@ -7,8 +7,8 @@
         <p class="card-text">Consultez mon CV au format PDF :</p>
         <iframe src="/cv-benoit-sakote.pdf" width="100%" height="600px" class="border-0">
           Ce navigateur ne supporte pas l'affichage des PDF.
-          <a href="/cv-benoit-sakote.pdf" class="btn btn-primary">Télécharger le CV</a>
         </iframe>
+        <a href="/cv-benoit-sakote.pdf" class="btn btn-primary">Télécharger le CV</a>
       </div>
     </div>
   </div>
