@@ -5,49 +5,49 @@
     <h2 class="mb-4">Sites Web</h2>
     <div class="row">
 
-      <!-- Allonavette -->
+      <!-- Allonavette (WP/Gutenberg)-->
       <div class="col-md-6 mb-4">
         <div class="card">
           <img src="/allonavette.jpg" class="card-img-top" alt="Site Web">
           <div class="card-body">
             <h5 class="card-title">Allonavette</h5>
-            <p class="card-text">Site web responsive développé en Wordpress (Gutenberg)</p>
+            <p class="card-text">Service de navette et de VTC</p>
             <a href="https://www.allonavette.fr/" class="btn btn-primary" target="_blank">Voir le site</a>
           </div>
         </div>
       </div>
 
-      <!-- Conceptys -->
+      <!-- Conceptys (WP/Elementor)-->
       <div class="col-md-6 mb-4">
         <div class="card">
           <img src="/conceptys.jpg" class="card-img-top" alt="Site Web">
           <div class="card-body">
             <h5 class="card-title">Conceptys</h5>
-            <p class="card-text">Site web responsive développé en Wordpress (Elementor)</p>
+            <p class="card-text">Solution médicales pour les séniors</p>
             <a href="https://conceptys-france.com/" class="btn btn-primary" target="_blank">Voir le site</a>
           </div>
         </div>
       </div>
 
-      <!-- Kazuo -->
+      <!-- Kazuo (WP/WP bakery)-->
       <div class="col-md-6 mb-4">
         <div class="card">
           <img src="/kazuo.jpg" class="card-img-top" alt="Site Web">
           <div class="card-body">
             <h5 class="card-title">Kazuo</h5>
-            <p class="card-text">Site web responsive développé en Wordpress (WP-Bakery)</p>
+            <p class="card-text">Mobilier design contemporain</p>
             <a href="https://kazuo.fr//" class="btn btn-primary" target="_blank">Voir le site</a>
           </div>
         </div>
       </div>
 
-      <!-- Enter Law -->
+      <!-- Enter Law (Wordpress)-->
       <div class="col-md-6 mb-4">
         <div class="card">
           <img src="/enter-law.png" class="card-img-top" alt="Site Web">
           <div class="card-body">
             <h5 class="card-title">Enter Law</h5>
-            <p class="card-text">Site web responsive développé en Wordpress</p>
+            <p class="card-text">Site web responsive dans le domaine du droit</p>
             <a href="https://enter-law.com/" class="btn btn-primary" target="_blank">Voir le site</a>
           </div>
         </div>
