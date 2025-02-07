@@ -23,7 +23,7 @@
           <img src="/conceptys.jpg" class="card-img-top" alt="Site Web">
           <div class="card-body">
             <h5 class="card-title">Conceptys</h5>
-            <p class="card-text">Solution médicales pour les séniors</p>
+            <p class="card-text">Solutions médicales pour les séniors</p>
             <a href="https://conceptys-france.com/" class="btn btn-primary" target="_blank">Voir le site</a>
           </div>
         </div>
@@ -47,7 +47,7 @@
           <img src="/enter-law.png" class="card-img-top" alt="Site Web">
           <div class="card-body">
             <h5 class="card-title">Enter Law</h5>
-            <p class="card-text">Site web responsive dans le domaine du droit</p>
+            <p class="card-text">Droit & Juridique</p>
             <a href="https://enter-law.com/" class="btn btn-primary" target="_blank">Voir le site</a>
           </div>
         </div>
