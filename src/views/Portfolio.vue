@@ -53,6 +53,18 @@
         </div>
       </div>
 
+      <!-- AIRFITEC-->
+       <div class="col-md-6 mb-4">
+        <div class="card">
+          <img src="/airfitec.png" class="card-img-top" alt="Site Web">
+          <div class="card-body">
+            <h5 class="card-title">AIRFITEC</h5>
+            <p class="card-text">Travaux & Energie Renouvelable</p>
+            <a href="https://airfitec.fr/" class="btn btn-primary" target="_blank">Voir le site</a>
+          </div>
+        </div>
+      </div>
+
 
     </div>
 
