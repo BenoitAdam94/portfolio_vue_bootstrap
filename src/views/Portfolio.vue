@@ -68,6 +68,21 @@
 
     </div>
 
+    <h2 class="mb-4 mt-5">Dévellopement d'émulateur</h2>
+
+    <div class="row">
+      <!-- NULLDC4WII -->
+      <div class="col-md-6 mb-4">
+        <div class="card">
+          <img src="/nulldc4wii.png" class="card-img-top" alt="Map 3D">
+          <div class="card-body">
+            <h5 class="card-title">NullDC4Wii</h5>
+            <p class="card-text">Emulateur Sega Dreamcast pour la Nintendo Wii</p>
+            <a href="https://github.com/BenoitAdam94/nullDC4Wii" class="btn btn-primary" target="_blank">Voir le site</a>
+          </div>
+        </div>
+      </div>
+
     <h2 class="mb-4 mt-5">Plateformes de Développement</h2>
 
     <div class="row">
@@ -96,6 +111,8 @@
         </div>
       </div>
     </div>
+
+    
 
     <h2 class="mb-4 mt-5">Conception de Maps en 3D (GoldSource, Source Engine, Unity)</h2>
 
