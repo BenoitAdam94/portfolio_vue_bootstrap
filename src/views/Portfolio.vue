@@ -68,7 +68,7 @@
 
     </div>
 
-    <h2 class="mb-4 mt-5">Dévellopement d'émulateur</h2>
+    <h2 class="mb-4 mt-5">Développement d'émulateur</h2>
 
     <div class="row">
       <!-- NULLDC4WII -->
