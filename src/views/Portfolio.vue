@@ -82,6 +82,7 @@
           </div>
         </div>
       </div>
+    </div>
 
     <h2 class="mb-4 mt-5">Plateformes de Développement</h2>
 
